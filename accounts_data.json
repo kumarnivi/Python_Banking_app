@@ -1,0 +1,22 @@
+{
+    "70772": {
+        "name": "Raam Nivi",
+        "password": "raamnivi2529",
+        "balance": 5278000.0,
+        "transactions": [
+            "Account created with balance: 10000.0",
+            "Deposited: 4000.0",
+            "Transferred 1000.0 to 69328",
+            "Interest added: 5265000.0"
+        ]
+    },
+    "69328": {
+        "name": "Uthayaraam",
+        "password": "nivi20001229",
+        "balance": 6000.0,
+        "transactions": [
+            "Account created with balance: 5000.0",
+            "Received 1000.0 from 70772"
+        ]
+    }
+}
